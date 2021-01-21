@@ -4,7 +4,9 @@
 1
 2
 3
-parseInt(1000)
+parseInt("1000")
+21000
+2.5
 
 // caracter
 "Daniel" "Andres" "Pedro"
