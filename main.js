@@ -11,11 +11,11 @@ parseInt("1000")
 // caracter
 "Daniel" "Andres" "Pedro"
 
-// array
+// array (listas)
 ['1', '2', '3', '4']
 
 
-// Boolean
+// Boolean (afirmaciones)
 true
 false
 ,
