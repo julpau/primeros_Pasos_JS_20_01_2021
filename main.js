@@ -18,19 +18,19 @@ parseInt("1000")
 // Boolean
 true
 false
-
+,
 
 // Objeto
 
 {
-    nombre: "Miguel"
-    apellido: "Bautista"
-    edad: "23"
+    nombre: "Miguel",
+    apellido: "Bautista",
+    edad: "23",
     profesor: "true"
 }
 {
-    nombre: "Diana"
-    apellido: "Bautista"
-    edad: "15"
+    nombre: "Diana",
+    apellido: "Bautista",
+    edad: "15",
     profesor: "true"
 }
